@@ -6,7 +6,7 @@ body {
     box-sizing: border-box;
   }
 
-h1, h3, p {
+h2, h4, p, h5 {
 
     font-family: 'Bai Jamjuree', sans-serif;
     color: rgb(10, 10, 31);
@@ -20,4 +20,10 @@ h1, h3, p {
     background-color:whitesmoke;
     padding: 5%;
 }
+
+.card-style {
+    border-style: solid;
+    border-color:  rgb(10, 10, 31);
+}
+
 
